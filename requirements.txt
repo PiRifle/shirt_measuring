@@ -1,0 +1,5 @@
+git+https://github.com/PiRifle/gphoto2-cffi.git
+imutils
+scikit-image
+scipy
+matplotlib
